@@ -1,0 +1,11 @@
+month,female_workers,male_workers,total_workers,lti,nti,severe_accident,lost_days,man_hours_exposure
+January,4,23,27,0,0,0,0,2867
+February,7,30,37,0,0,0,0,5623
+March,6,54,60,0,0,0,0,10560
+April,7,78,85,0,0,0,0,15810
+May,10,117,127,1,1,0,9,22342
+June,16,147,163,1,0,0,36,28688
+July,18,209,227,1,1,0,13,39952
+August,17,171,188,1,0,0,4,37224
+September,19,162,181,0,0,0,0,31856
+October,19,198,217,0,0,0,0,40145
